@@ -1,0 +1,9 @@
+red:Màu Đỏ
+green:Màu Xanh Lá
+cat:con:con
+blue:Màu Xanh Dương
+bird:Con Chim
+yellow:Màu Vàng
+house:Ngôi Nhà
+dog:Con Chó
+pig:Con Heo
